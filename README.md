@@ -4,6 +4,7 @@
 
 This repository features the **source code** I wrote for my talk:
 - https://ep2017.europython.eu/conference/talks/leveraging-consistent-hashing-in-your-python-applications
+- video https://youtu.be/E-HgQ0JKxHw?list=PL8uoeex94UhEP1C94Fgdn3PdXitS8RtOV&t=25474
 
 ## Example use cases
 
